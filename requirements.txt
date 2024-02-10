@@ -1,0 +1,6 @@
+contextlib2==21.6.0
+factorio-draftsman==1.1.0
+lupa==2.0
+schema==0.7.5
+six==1.16.0
+typing==3.7.4.3
